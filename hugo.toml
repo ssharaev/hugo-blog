@@ -1,0 +1,4 @@
+baseURL = 'https://ssharaev.com/'
+languageCode = 'en-us'
+title = 'My blog'
+theme = 'ananke'
